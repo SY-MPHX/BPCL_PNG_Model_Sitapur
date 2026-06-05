@@ -17,7 +17,7 @@ import streamlit as st
 from premium_theme import CHARGED_COLOR_PREMIUM
 
 # ── GitHub Database Settings ─────────────────────────────────────────────────────
-GITHUB_OWNER = "darksoul0379"
+GITHUB_OWNER = "SY-MPHX"
 GITHUB_REPO  = "BPCL_PNG_Model_Sitapur"
 BRANCH       = "main"
 try:
